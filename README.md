@@ -24,7 +24,9 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 - [Questions](#questions)
 
 ## Screenshots
-<img src="screenshot.png" alt="fitness-tracker"/>
+<img src="mainpage.png" alt="fitness-tracker"/>
+<img src="1.png" alt="fitness-tracker"/>
+<img src="2.png" alt="fitness-tracker"/>
 
 ## License
 This project is licensed under the ISC License
